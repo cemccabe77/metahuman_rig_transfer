@@ -1,4 +1,5 @@
 ## NOT IN ACTIVE DEVELOPMENT
+### Outdated, in all probability. 
 
 # Metahuman Rig Transfer Script
 A series of python scripts to modify the metahuman rig into a new one for Maya. For unreal use Mesh to Metahuman or houdini.
